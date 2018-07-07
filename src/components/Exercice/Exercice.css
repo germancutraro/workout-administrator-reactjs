@@ -1,0 +1,36 @@
+.Exercice-Wrapper {
+  background-color: #34495E;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Exercice-Name {
+  color: aliceblue;
+  font-weight: lighter;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.Exercice-Index-Wrapper {
+  display: inline-block;
+  width: 80px;
+  height: 100%;
+  padding: 0;
+  background-color: #2D3E50;
+}
+
+.Exercice-Index {
+  color: aliceblue;
+  font-size: 1.7rem;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.Exercice-Close {
+  color: #fff;
+  padding-right: 3rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}

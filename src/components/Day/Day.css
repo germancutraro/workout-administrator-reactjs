@@ -1,0 +1,11 @@
+.Day {
+  background-color: #525CDC;
+  color: aliceblue;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1.3rem;
+}
+
+.Exercices {
+  min-height: 10px;  
+}
